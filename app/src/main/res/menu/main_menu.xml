@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/changewallpaper"
+        android:title="Change WallPaper"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/setlock"
+        android:title="Pin settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sign_out_menu"
+        android:title="signout"
+        app:showAsAction="never"/>
+
+</menu>

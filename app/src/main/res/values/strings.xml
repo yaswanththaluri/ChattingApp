@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chatting App</string>
+    <string name="wallpaper1">Wallpaper 1</string>
+    <string name="wallpaper2">Wallpaper 2</string>
+    <string name="wallpaper3">Wallpaper 3</string>
+    <string name="title_changewallpaper">Change WallPaper</string>
+    <string name="background">Background</string>
+</resources>
